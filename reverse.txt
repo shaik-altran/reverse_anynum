@@ -10,5 +10,5 @@ int main()
                 rev=rev*10+temp;
                 num/=10;
         }
-        printf("The Reversed number is %d\n",rev);
+        printf("The Reversed number is %d\n",rev);--
 }
